@@ -1,19 +1,11 @@
-# Kancolle Event Folder Generator
+## Usage (Windows)
 
-艦これイベント用フォルダを自動生成するツールです。
+### Option 1 (Recommended)
+1. Download `kancolle-folder-generato.exe`
+2. Double click
+3. Enter number
 
-## 使い方
+### Option 2 (PowerShell)
+1. Run the .ps1 script manually
 
-1. イベントフォルダ作成.exe をダブルクリック
-2. フォルダ数を入力
-3. 自動生成されます
-
-## 生成例
-
-2026春
- ├ E1
- ├ E2
- └ E3
-
-## 対応環境
-- Windows（PowerShell）
+If Windows shows a warning, click "More info" → "Run anyway".
